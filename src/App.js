@@ -27,10 +27,6 @@ function App() {
     empLoc:''
   });
 
-  // gives error initially, if uncommented after rendering pg it works?
-  // auto increment
-  // newEmp.id = parseInt(employee.slice(-1)[0].id)+1;
-
   //onChange form inputs
   const handleChange = (e) =>{
 
