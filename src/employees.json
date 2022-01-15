@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "1001",
+      "empName": "Tom",
+      "empDsgn": "SE",
+      "empLoc": "NYC"
+    },
+    {
+      "id": "1002",
+      "empName": "Sam",
+      "empDsgn": "MGR",
+      "empLoc": "NYC"
+    },
+    {
+      "id": "1003",
+      "empName": "Sally",
+      "empDsgn": "TA",
+      "empLoc": "Berlin"
+    },
+    {
+      "id": "1004",
+      "empName": "Natasha",
+      "empDsgn": "SSE",
+      "empLoc": "Berlin"
+    },
+    {
+      "id": "1005",
+      "empName": "Kenji",
+      "empDsgn": "TA",
+      "empLoc": "Kyoto"
+    },
+    {
+      "id": "1006",
+      "empName": "Vartika",
+      "empDsgn": "TL",
+      "empLoc": "Mumbai"
+    }
+  ]
+}
